@@ -20,29 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Video de Cortes feito por IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei a ia para gerar cortes do podcast do PODPAH, gerendo os melhores cortes e centralizando quem está falando automaticamente junto com a sua legenda
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Opusclip
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Extremamente fácil, somente enviei o link do video do podcast original, a ia fez todo o resto do trabalhando, colocando o video em diagonal e deixando sempre menos de 1 minuto para poder postar no yt
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.youtube.com/shorts/MNZUiwgVcGo
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A tecnologia que utilizei foi para auxiliar no trabalho de edição que eu teria caso realizasse este processo na mão, hoje elas são uma mão na roda para podermos criar conteudos desta forma.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
